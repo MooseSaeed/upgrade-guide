@@ -2,6 +2,6 @@
 
 <template>
   <div>
-    <ParentFolderMyComponent />
+    <h1>My Component</h1>
   </div>
 </template>
